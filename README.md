@@ -20,7 +20,7 @@ Please clone this repository by Git or download the zip file firstly.
 
 ### test_CDP
 
-Run `test_CDP.m` file to achieve the phase retrieval results of conventional algorithms (GS, Fienup, WF, TWF, RWF, AF, TAF, RAF, PMAX, CD, KAC)、prDeep algorithm、and ours algorithm (LPR).
+Run `test_CDP.m` file to achieve the phase retrieval results of conventional algorithms (GS, Fienup, WF, TWF, RWF, AF, TAF, RAF, PMAX, CD, KAC)、prDeep algorithm and ours algorithm (LPR).
  
 ### Note
 This demo code takes nearly half an hour (2K image).
